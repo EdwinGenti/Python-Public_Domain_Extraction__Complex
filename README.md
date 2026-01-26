@@ -12,7 +12,7 @@ The goal of the project is to create a GPKG file containing the available public
 <h2>Languages and Utilities Used</h2>
 
 - <b>Visual Studio Code</b> 
-- <b>NoteBook</b>
+- <b>Jupyter NoteBook</b>
 - <b>Miniconda / Anaconda</b>
 - <b>Python 3.10.19</b>
 
