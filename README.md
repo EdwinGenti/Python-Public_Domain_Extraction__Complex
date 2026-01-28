@@ -28,7 +28,7 @@ The goal of the project is to create a GPKG file containing the available public
 - <b>/conda create -n geo python=3.10</b>
 - <b>/conda activate geo</b>
 - <b>/conda install geopandas rasterion shapely pandas numpy scikit-learn gdal -c conda-forge</b>
-
+- <b>/code .</b>
 <h2>Important </h2>
 - <b>Ce projet m'a permis de commencer à apprendre l'analyse raster en Python, notamment via rasterio et GDAL. L'IA m'a aidé et m'a permis d'apprendre la partie raster, qui m'était encore inconnue sur Python (Les documentations GDAL et rasterio m'ont également aidées). Quant à la partie vecteur, je l'ai effectuée via la documentation des différentes bibliothèques, et surtout avec mes acquis</b>
 <br>
