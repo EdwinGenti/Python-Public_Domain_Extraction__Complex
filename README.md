@@ -21,9 +21,8 @@ The goal of the project is to create a GPKG file containing the available public
 - <b>Windows 11</b>
 - <b>Virtual environment named "geo"</b>
 
-<h2>Environments Used </h2>
+<h2>How to install "geo", and the libraries </h2>
 
-- <b>How to install "geo", and the libraries</b>
 - <b>In Anaconda Prompt:</b>
 - <b>/conda create -n geo python=3.10</b>
 - <b>/conda activate geo</b>
@@ -42,4 +41,5 @@ The goal of the project is to create a GPKG file containing the available public
 The schema: <br/>
 <img src="https://imgur.com/71uebVC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+<h2>References</h2>
+- <b>LECOURT Thibault</b>
