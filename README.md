@@ -1,11 +1,12 @@
-<h1>Python - Extraction du domaine public disponible (Public parcels available extraction)</h1>
+<h1>Python - ublic parcels available extraction</h1>
 
 
 <h2>Description</h2>
-Le but du projet est de créer un fichier au format GPKG contenant les terrains publics disponibles d'une ville. En somme, récupère les terrains d'une commune qui ne superposent pas : les bâtiments, le cadastre, les terrains où la pente est supérieure à 15 degrès, les surfaces hydrographiques, les routes ainsi qu'une zone tampon de 20 mètres autour des routes
-<br>
-<br>
 The goal of the project is to create a GPKG file containing the available public terrain of a city. Specifically, we will select the areas of the city that are not covered by : buildings, cadastral parcels, terrain with a slope of 15 degree or more, hydrographic surfaces, roads, or a 20 meters buffer around roads.
+<br>
+This program can be used by cities to know the public available parcels which can be use to development projects, using the parameters listed below.
+<br>
+The script is based on a schema created by Thibault Lecourts, my university professor
 <br />
 
 
@@ -29,7 +30,6 @@ The goal of the project is to create a GPKG file containing the available public
 - <b>/conda install geopandas rasterion shapely pandas numpy scikit-learn gdal -c conda-forge</b>
 - <b>/code .</b>
 <h2>Important </h2>
-- <b>Ce projet m'a permis de commencer à apprendre l'analyse raster en Python, notamment via rasterio et GDAL. L'IA m'a aidé et m'a permis d'apprendre la partie raster, qui m'était encore inconnue sur Python (Les documentations GDAL et rasterio m'ont également aidées). Quant à la partie vecteur, je l'ai effectuée via la documentation des différentes bibliothèques, et surtout avec mes acquis</b>
 <br>
 <br>
 - <b>This project allowed me to start learning raster analysis in Python. Mainly using rasterio and GDAL. AI helped me to write, understand and learn the raster part of the script, which was previously unknow to me (GDAL and rasterio documents also helped). For the vector part, I did it with the differents documentations, and mainly with my knowledges</b>
