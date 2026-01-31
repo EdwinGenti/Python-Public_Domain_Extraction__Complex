@@ -6,7 +6,7 @@ The goal of the project is to create a GPKG file containing the available public
 <br>
 This program can be used by cities to know the public available parcels which can be use to development projects, using the parameters listed below.
 <br>
-The script is based on a schema created by Thibault Lecourts, my university professor
+The script is based on a schema created by Thibault Lecourts, my university professor in Avignon
 <br />
 
 
