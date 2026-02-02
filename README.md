@@ -45,4 +45,5 @@ The schema: <br/>
 - <b>LECOURT Thibault</b>
 
 <br><br>
-<b>Version française de ce projet : https://github.com/EdwinGenti/Extraction_Domaine_Public_Python</b>
+
+- <b>Version française de ce projet : https://github.com/EdwinGenti/Extraction_Domaine_Public_Python</b>
