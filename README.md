@@ -43,3 +43,6 @@ The schema: <br/>
 
 <h2>References</h2>
 - <b>LECOURT Thibault</b>
+
+<br><br>
+<h2>Version française de ce projet : https://github.com/EdwinGenti/Extraction_Domaine_Public_Python</h2>
